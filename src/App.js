@@ -22,7 +22,6 @@ export default function App() {
       id: nanoid(),
       body: "# Type your markdown note's title here",
     };
-    react;
     setNotes((prevNotes) => [newNote, ...prevNotes]);
     setCurrentNoteId(newNote.id);
   }
