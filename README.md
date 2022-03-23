@@ -1,1 +1,1 @@
-[Try Tenzies Dice Game](https://evelyndotjs-tenzies-game.herokuapp.com/ "Tenzies Dice Game")
+[Try Notes App](https://evelyndotjs-notes-app.herokuapp.com/ "Notes App")
